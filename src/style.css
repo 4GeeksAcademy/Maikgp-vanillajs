@@ -1,1 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: rgb(5, 7, 44); /* Fondo azul */
+}
+
+.container-fluid {
+  font-size: 1.6em; /* Excuse Generator class */
+  color: azure;
+}
+
+#excuse {
+  font-size: 1.3em; /* letra de la excusa */
+}
